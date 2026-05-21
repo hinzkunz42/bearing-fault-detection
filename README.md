@@ -36,6 +36,7 @@ streamlit run dashboard/app.py
 ```
 
 ## 项目结构
+```
 bearing-fault-detection/
 ├── data/              # CWRU 数据集
 ├── model/             # 训练脚本
@@ -46,6 +47,7 @@ bearing-fault-detection/
 ├── notebooks/         # 数据分析notebook
 │   └── 01_data.ipynb
 └── README.md
+```
 
 ## 系统截图
 ![Dashboard](screenshot.png)
