@@ -1,0 +1,12 @@
+# 数据和模型文件
+data/
+model/model.pkl
+model/scaler.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 环境
+.env
