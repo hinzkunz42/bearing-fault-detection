@@ -46,3 +46,6 @@ bearing-fault-detection/
 ├── notebooks/         # 数据分析notebook
 │   └── 01_data.ipynb
 └── README.md
+
+## 系统截图
+![Dashboard](screenshot.png)
